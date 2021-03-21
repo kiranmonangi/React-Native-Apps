@@ -1,0 +1,576 @@
+
+[
+
+   {
+
+
+       "id": 1,
+
+
+       "firstName": "Laxmi",
+
+
+       "lastName": "PH",
+
+
+       "title": "Director",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "amy@fakemail.com",
+
+
+       "picture": "https://media-exp1.licdn.com/dms/image/C5603AQGlg-AzNYqlgw/profile-displayphoto-shrink_400_400/0/1594283002503?e=1619654400&v=beta&t=As1XnPZUmuORV3optyAfeHPnoeWd87uRbkPDaO1AkZg"
+
+   },
+
+
+   {
+
+
+       "id": 2,
+
+
+       "firstName": "Guru",
+
+
+       "lastName": "Prasad",
+
+
+       "title": "VP of Engineering",
+
+
+       "managerid": 1,
+
+
+       "managerName": "Laxmi",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "anup@fakemail.com",
+
+
+       "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFY57wClnB6wQ/profile-displayphoto-shrink_400_400/0/1517680967438?e=1619654400&v=beta&t=vXjKZUJl75QqKw3-tpTdU8g_tjObQmzMl5poO-m0Ubc"
+
+
+   },
+
+
+   {
+
+
+       "id": 3,
+
+
+       "firstName": "Eswar",
+
+
+       "lastName": "Andavarapu",
+
+
+       "title": "VP of Marketing",
+
+
+       "managerid": 1,
+
+
+       "managerName": "Laxmi",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "michael@fakemail.com",
+
+
+       "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQE9acRai8-_Tg/profile-displayphoto-shrink_400_400/0/1522603179594?e=1619654400&v=beta&t=SiOYWXPUKJTpybZhG4j9HZDhz1mkrOzcTwKtrZHZY84"
+
+
+   },
+
+
+   {
+
+
+       "id": 4,
+
+
+       "firstName": "James",
+
+
+       "lastName": "Bond",
+
+
+       "title": "VP of Sales",
+
+
+       "managerid": 1,
+
+
+       "managerName": "Laxmi",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "caroline@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/brad_moretti.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 5,
+
+
+       "firstName": "Kiran",
+
+
+       "lastName": "Monangi",
+
+
+       "title": "Account Executive",
+
+
+       "managerid": 4,
+
+
+       "managerName": "Laxmi",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "james@fakemail.com",
+
+
+       "picture": "https://media-exp1.licdn.com/dms/image/C5635AQFGUYbS0gjObQ/profile-framedphoto-shrink_400_400/0/1613977278053?e=1614344400&v=beta&t=-g7SfYq9AEiXeHGg8X2N5WbkFIx-iFi9-pKDprJP5xA"
+
+
+   },
+
+
+   {
+
+
+       "id": 6,
+
+
+       "firstName": "Manoj",
+
+
+       "lastName": "Kandula",
+
+
+       "title": "Account Executive",
+
+
+       "managerid": 4,
+
+
+       "managerName": "Caroline Kingsley",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "jen@fakemail.com",
+
+
+      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQFVrovTBpSlGg/profile-displayphoto-shrink_400_400/0/1613028066386?e=1619654400&v=beta&t=dm8rjRQh11tnCPU0rR6kvkxhAVyhYXDf_LvYrW4Te1E"
+
+
+   },
+
+
+   {
+
+
+       "id": 7,
+
+
+       "firstName": "Anup",
+
+
+       "lastName": "Rajput",
+
+
+       "title": "Account Executive",
+
+
+       "managerid": 4,
+
+
+       "managerName": "Caroline Kingsley",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "jonathan@fakemail.com",
+
+
+       "picture": "https://media-exp1.licdn.com/dms/image/C5603AQHvRBegHJ24sg/profile-displayphoto-shrink_400_400/0/1589470678021?e=1619654400&v=beta&t=QsAjFYt3_aoPwvO2hNbeVZ5gDgc2gfhtpRcrdIfSzzE"
+
+
+   },
+
+
+   {
+
+
+       "id": 8,
+
+
+       "firstName": "Kenneth",
+
+
+       "lastName": "Sato",
+
+
+       "title": "Account Executive",
+
+
+       "managerid": 4,
+
+
+       "managerName": "Caroline Kingsley",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "kenneth@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/kenneth_sato.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 9,
+
+
+       "firstName": "Lisa",
+
+
+       "lastName": "Parker",
+
+
+       "title": "Software Architect",
+
+
+       "managerid": 2,
+
+
+       "managerName": "Anup Gupta",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "lisa@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/lisa_parker.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 10,
+
+
+       "firstName": "Brad",
+
+
+       "lastName": "Moretti",
+
+
+       "title": "Software Architect",
+
+
+       "managerid": 2,
+
+
+       "managerName": "Anup Gupta",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "brad@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/brad_moretti.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 11,
+
+
+       "firstName": "Michelle",
+
+
+       "lastName": "Lambert",
+
+
+       "title": "Software Architect",
+
+
+       "managerid": 2,
+
+
+       "managerName": "Anup Gupta",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "michelle@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 12,
+
+
+       "firstName": "Miriam",
+
+
+       "lastName": "Aupont",
+
+
+       "title": "Marketing Manager",
+
+
+       "managerid": 3,
+
+
+       "managerName": "Michael Jones",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "miriam@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 13,
+
+
+       "firstName": "Olivia",
+
+
+       "lastName": "Green",
+
+
+       "title": "Marketing Manager",
+
+
+       "managerid": 3,
+
+
+       "managerName": "Michael Jones",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "olivia@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 14,
+
+
+       "firstName": "Robert",
+
+
+       "lastName": "Sullivan",
+
+
+       "title": "Marketing Manager",
+
+
+       "managerid": 3,
+
+
+       "managerName": "Michael Jones",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "robert@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/robert_sullivan.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 15,
+
+
+       "firstName": "Tammy",
+
+
+       "lastName": "Robinson",
+
+
+       "title": "Software Architect",
+
+
+       "managerid": 2,
+
+
+       "managerName": "Anup Gupta",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "tammy@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/tammy_robinson.jpg"
+
+
+   },
+
+
+   {
+
+
+       "id": 16,
+
+
+       "firstName": "Victor",
+
+
+       "lastName": "Ochoa",
+
+
+       "title": "Account Executive",
+
+
+       "managerid": 4,
+
+
+       "managerName": "Caroline Kingsley",
+
+
+       "phone": "617-123-4567",
+
+
+       "mobilephone": "617-987-6543",
+
+
+       "email": "victor@fakemail.com",
+
+
+       "picture": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg"
+
+
+   }
+
+
+]
+
+
+
